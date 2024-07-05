@@ -1,4 +1,4 @@
-name: Pylint
+name: "Pylint Pip 24.1"
 
 on:
   push:
